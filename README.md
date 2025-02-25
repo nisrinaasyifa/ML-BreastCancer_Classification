@@ -13,10 +13,10 @@ Proyek ini bertujuan untuk menganalisis klasifikasi tumor kanker payudara malign
 ## 🛠️ Teknologi yang Digunakan
 - **Python**: bahasa pemrograman tingkat tinggi yang sederhana, mudah dibaca, dan fleksibel. Dikenal dengan sintaks yang jelas, Python banyak digunakan dalam pengembangan web, data science, kecerdasan buatan, dan otomatisasi.
 - **Visual Studio Code**: editor kode yang mendukung berbagai bahasa pemrograman, memiliki fitur seperti debugging, IntelliSense, terminal terintegrasi.
-- **Scikit-learn**: library machine learning yang menyediakan alat untuk data mining dan analisis data.
+- **scikit-learn**: library machine learning yang menyediakan alat untuk data mining dan analisis data.
 - **matplotlib**: library plotting untuk membuat visualisasi statistil, animasi, dan interaktif dalam Python.
 - **Seaborn**: library visualisasi data Python berbasis Matplotlib yang terintegrasi dengan Pandas, dirancang untuk membuat - visualisasi statistik yang informatif dan menarik dengan kode minimal.
-- **numpy**: Sebuah package untuk komputasi ilmiah dengan Python, menyediakan dukungan untuk array dan matriks.
+- **NumPy**: Sebuah package untuk komputasi ilmiah dengan Python, menyediakan dukungan untuk array dan matriks.
 - **pandas**: Sebuah library manipulasi dan analisis data yang menyediakan struktur data seperti DataFrames.
 
 ## 🔍 Tahapan Analisis Data
@@ -43,9 +43,11 @@ Proyek ini mencakup beberapa visualisasi seperti:
 ## 📌 Kesimpulan
 **Akurasi Tinggi**
    - Model KNN mencapai akurasi 96%, yang menunjukkan kinerja yang sangat baik dalam mengklasifikasikan data kanker.
+
 **Performa pada Kelas Malignant dan Benign**
    - Presisi & recall yang tinggi untuk kedua kelas.
    - Recall untuk Malignant (0.93) lebih rendah daripada Benign (0.99), yang berarti beberapa kasus kanker salah diklasifikasikan.
+
 **Confusion Matrix Insights**
    - 3 Kasus ganas salah diklasifikasikan sebagai jinak, yang dapat berisiko dalam diagnosis medis.
    - 1 Kasus jinak salah diklasifikasikan sebagai ganas, yang berpotensi menyebabkan kecemasan yang tidak perlu bagi pasien.
