@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk menganalisis klasifikasi tumor kanker payudara malign
 ## 📂 Struktur Proyek
 - `DataScience_BreastCancerClassification.ipynb`: Script utama untuk preprocessing, training, evaluasi, dan visualisasi model.
 - `DataScience_BreastCancerClassification.py` : Script Python tanpa output.
-- `Portofolio_BreastCancer_Classification.pptx` : Penjelasan tentang proyek ini dalam bentuk power point.
+- `Portofolio_BreastCancer_Classification.pdf` : Penjelasan tentang proyek ini dalam bentuk power point.
 - `breast_cancer_dataset.csv`: Dataset yang telah disimpan dalam format CSV sehingga dapat digunakan kembali untuk eksperimen selanjutnya.
 - `README.md`: Dokumentasi proyek ini.
 
